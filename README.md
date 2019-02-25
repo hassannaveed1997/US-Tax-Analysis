@@ -1,6 +1,5 @@
 # US-Tax-Analysis
-
-The purpose of this project was to look at tax data to see where particular taxes were higher than others. Then draw on policy conclusions where the government might offer tax cuts. The current version is done for county data. There are similar ones based on zipcodes and congressional districts.
+This was done as a research assistant in the economics department for Dr. Dolan at the University of Richmond. The purpose of this project was to look at tax data to see where particular taxes were higher than others. Then draw on policy conclusions where the government might offer tax cuts. The current version is done for county data. There are similar ones based on zipcodes and congressional districts.
 
 **Data used (2015 editions):**
 1. [IRS Tax data](https://www.irs.gov/pub/irs-soi/15incyallnoagi.csv)
